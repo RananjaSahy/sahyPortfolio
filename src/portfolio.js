@@ -26,7 +26,7 @@ const greeting = {
     "Un développeur fullstack passionné, spécialisé en développement .NET / C#, Java, et Javascript"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1GXTPCdLgas_dknZceIzpmvN9r5F_YlqW/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/13EitGV-gyQW4bT8WYXZK347TOB71hKbr/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "Qu'est-ce que je fais?",
-  subTitle: "Développeur full stack polyvalent cherchant toujours pousser ses limites.",
+  subTitle: "Développeur full stack polyvalent cherchant toujours à pousser ses limites.",
   skills: [
     emoji(
       "🧠 Développement d'applications web robustes avec ASP.NET Core (MVC / Web API)"
